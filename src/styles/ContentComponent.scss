@@ -1,0 +1,8 @@
+@import "./variables.scss";
+
+.mb-content-panel {
+  padding: 1rem;
+  background-color: white;
+  min-height: 80vh;
+  border-radius: $border-radius;
+}
